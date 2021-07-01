@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "955c8b4614d38f6023341c3d74965729",
+    "revision": "5c7f7d3f303ec9b7a3e6a781ce2470d7",
     "url": "https://rifandani.github.io/task-management-frontend/index.html"
   },
   {
-    "revision": "618326591a15fe138289",
+    "revision": "daaac6bbb6c7b4c98e85",
     "url": "https://rifandani.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css"
   },
   {
-    "revision": "ee38f3e54cc1313715d3",
-    "url": "https://rifandani.github.io/task-management-frontend/static/js/2.455303b1.chunk.js"
+    "revision": "2dee0be1b3ddceed4946",
+    "url": "https://rifandani.github.io/task-management-frontend/static/js/2.1ff99464.chunk.js"
   },
   {
-    "revision": "618326591a15fe138289",
-    "url": "https://rifandani.github.io/task-management-frontend/static/js/main.eac61bbd.chunk.js"
+    "revision": "daaac6bbb6c7b4c98e85",
+    "url": "https://rifandani.github.io/task-management-frontend/static/js/main.c73a14e4.chunk.js"
   },
   {
     "revision": "c8e072d7f27fb6ada4e3",

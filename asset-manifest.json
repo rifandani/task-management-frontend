@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://rifandani.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://rifandani.github.io/task-management-frontend/static/js/main.eac61bbd.chunk.js",
-    "main.js.map": "https://rifandani.github.io/task-management-frontend/static/js/main.eac61bbd.chunk.js.map",
+    "main.js": "https://rifandani.github.io/task-management-frontend/static/js/main.c73a14e4.chunk.js",
+    "main.js.map": "https://rifandani.github.io/task-management-frontend/static/js/main.c73a14e4.chunk.js.map",
     "runtime~main.js": "https://rifandani.github.io/task-management-frontend/static/js/runtime~main.d3e1e7f6.js",
     "runtime~main.js.map": "https://rifandani.github.io/task-management-frontend/static/js/runtime~main.d3e1e7f6.js.map",
-    "static/js/2.455303b1.chunk.js": "https://rifandani.github.io/task-management-frontend/static/js/2.455303b1.chunk.js",
-    "static/js/2.455303b1.chunk.js.map": "https://rifandani.github.io/task-management-frontend/static/js/2.455303b1.chunk.js.map",
+    "static/js/2.1ff99464.chunk.js": "https://rifandani.github.io/task-management-frontend/static/js/2.1ff99464.chunk.js",
+    "static/js/2.1ff99464.chunk.js.map": "https://rifandani.github.io/task-management-frontend/static/js/2.1ff99464.chunk.js.map",
     "index.html": "https://rifandani.github.io/task-management-frontend/index.html",
-    "precache-manifest.269a6d77d1d03a74d1c2c96709f8cbdd.js": "https://rifandani.github.io/task-management-frontend/precache-manifest.269a6d77d1d03a74d1c2c96709f8cbdd.js",
+    "precache-manifest.8fe04ab33ec6771456739319093ecaee.js": "https://rifandani.github.io/task-management-frontend/precache-manifest.8fe04ab33ec6771456739319093ecaee.js",
     "service-worker.js": "https://rifandani.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://rifandani.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
